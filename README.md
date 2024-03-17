@@ -1,13 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffccff,100:ccf5ff&height=300&section=header&text=ByeongGuk%20Kang&fontSize=90" />
-  <br>
-  :email:Email
-  <br>
-  qudrnr3434@gmail.com
-  <br>
-  <br>
-  <br>
-  :hammer:Tech Stack
+ 
+### Email
+   <p><b>qudrnr3434@gmail.com</b></p>
+<br>
+  
+  ### Tech Stack
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,11 +23,10 @@
   </div>
   <br>
   <br>
-  <br>
-  :wrench:Tools
+
+ ### Tools
   <div>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </div>
-</div>
