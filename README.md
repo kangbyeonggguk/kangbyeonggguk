@@ -4,7 +4,14 @@
 ### Email
    <p><b>qudrnr3434@gmail.com</b></p>
 <br>
-  
+<b>안녕하세요.</b>
+<br>
+<b>웹 개발자가 되기 위해 나아가고 있는 강병국입니다.</b>
+<br>
+<b>진지하고 자만하지 않는 자세로 배움에 임하고 있습니다.</b> 
+<br>
+<br>
+
   ### Tech Stack
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
