@@ -1,8 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffccff,100:ccf5ff&height=300&section=header&text=ByeongGuk%20Kang&fontSize=90" />
- 
-### Email
-   <p><b>qudrnr3434@gmail.com</b></p>
 <br>
 <b>안녕하세요.</b>
 <br>
@@ -10,6 +7,10 @@
 <br>
 <b>진지하고 자만하지 않는 자세로 배움에 임하고 있습니다.</b> 
 <br>
+<br>
+ 
+### Email
+   <p><b>qudrnr3434@gmail.com</b></p>
 <br>
 
   ### Tech Stack
